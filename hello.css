@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.a{
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+}
+.b{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 25%;
+    background-color: aqua;
+}
+.c{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 15%;
+    background-color: aquamarine;
+}
+.d{
+    width: 100%;
+    height: 60%;
+    background-color: rgb(37, 26, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.ba{
+    width: 20%;
+    height: 100%;
+    background-color: purple;
+}
+.ba img{
+    width: 100%;
+    height: auto;
+}
+.bb{
+    width: 50%;
+    height: 100%;
+    background-color: pink;
+}
+.bc{
+    width: 10%;
+    height: 100%;
+    background-color: blue;
+}
+.bd{
+    width: 10%;
+    height: 100%;
+    background-color: lightblue;
+}
+.be{
+    width: 10%;
+    height: 100%;
+    background-color: darkblue;
+}
+.ca{
+    width: 20%;
+    height: 100%;
+    background-color: blueviolet;
+}
+.cb{
+    width: 20%;
+    height: 100%;
+    background-color: brown;
+}
+.cc{
+    width: 20%;
+    height: 100%;
+    background-color: green;
+}
+.cd{
+    width: 20%;
+    height: 100%;
+    background-color: cyan;
+}
+.ce{
+    width: 20%;
+    height: 100%;
+    background-color: orange;
+}
+.d a{
+    width:200px;
+    height: 200px;
+    margin: 5px;
+}
+.box{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(207, 133, 14);
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
