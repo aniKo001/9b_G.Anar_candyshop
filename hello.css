@@ -22,6 +22,10 @@
     height: 15%;
     background-color: white;
 }
+h1{
+    font-size: 80px;
+    justify-content: center;
+}
 .d{
     width: 100%;
     height: 60%;
@@ -41,32 +45,50 @@
     height: auto;
 }
 .bb{
-    width: 50%;
+    width: 30%;
     height: 100%;
     background-color: white;
 }
 .bc{
-    width: 10%;
+    width: 20%;
     height: 100%;
     background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bc i{
+    font-size: 100px;
 }
 .bd{
-    width: 10%;
+    width: 20%;
     height: 100%;
     background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bd i{
+    font-size: 100px;
 }
 .be{
-    width: 10%;
+    width: 20%;
     height: 100%;
     background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.be i{
+    font-size: 100px;
 }
 .ca{
-    width: 20%;
+    width: 15%;
     height: 100%;
     background-color: white;
 }
 .cb{
-    width: 20%;
+    width: 25%;
     height: 100%;
     background-color: white;
 }
