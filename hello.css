@@ -70,7 +70,7 @@ h1{
     display: flex;
 }
 .bd i{
-    font-size: 10px;
+    font-size: 50px;
 }
 .be{
     width: 20%;
@@ -81,8 +81,7 @@ h1{
     display: flex;
 }
 .be i{
-    font-size: 10px;
-    color:red;
+    font-size: 50px;
 }
 .ca{
     width: 15%;
