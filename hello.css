@@ -2,7 +2,16 @@
     margin: 0%;
     padding: 0%;
 }
+a {
+    color: #4eaa64;
+    text-decoration: none;
+}
 
+a:hover {
+    color:#c6bf00; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
 .a{
     justify-content: center;
     width: 100%;
@@ -20,7 +29,7 @@
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 15%;
+    height: 5%;
     background-color: white;
 }
 h1{
