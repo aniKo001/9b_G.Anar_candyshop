@@ -1,30 +1,27 @@
 const products = [
   {
-    name: "candyOne",
-    price: 1000,
+    name: "twixx",
+    price: 2200,
     description: "Candy",
     type: "chocolate",
-    image:
-      "https://thumbs.dreamstime.com/b/colorful-candy-background-8939634.jpg",
+    image:"https://pbs.twimg.com/profile_images/1219344620405981185/2juY3NZ3_400x400.jpg",
   },
   {
-    name: "candyTwo",
-    price: 1200,
+    name: "snickers",
+    price: 2500,
+    description: "Candy",
+    type: "chocolate",
+    image:"https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+  },
+  {
+    name: "haribo",
+    price: 5500,
     description: "Candy",
     type: "gummy",
-    image:
-      "https://thumbs.dreamstime.com/b/colorful-candy-background-8939634.jpg",
+    image:"https://assets.haribo.com/image/upload/s--drEjHlju--/ar_2700:3722,c_fill,f_auto,q_60/w_730/v1/consumer-sites/en-us/Products/Haribo-US-Goldbears-5-oz.png",
   },
   {
-    name: "candyThree",
-    price: 2300,
-    description: "Candy",
-    type: "chocolate",
-    image:
-      "https://thumbs.dreamstime.com/b/colorful-candy-background-8939634.jpg",
-  },
-  {
-    name: "candyFour",
+    name: "",
     price: 550,
     description: "Candy",
     type: "gummy",
